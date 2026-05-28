@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marina Mashuk
 
-<!--
-**mashuk-marina/mashuk-marina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on SQL, PostgreSQL and business metrics analysis.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SQL / PostgreSQL
+* Excel / Power Query
+* Product Analytics
+* A/B Testing
+* Data Visualization
+* Python (pandas, numpy, matplotlib)
+
+## Areas of Interest
+
+* Product Analytics
+* Healthcare Analytics
+* Business Intelligence
+* Data Visualization
+
+## Projects
+
+* Product metrics analysis
+* A/B testing analysis
+* Healthcare data analytics
+
+## Contacts
+
+* LinkedIn: add-your-link
+* Email: [mashuk.marina77@gmail.com](mailto:mashuk.marina77@gmail.com)
